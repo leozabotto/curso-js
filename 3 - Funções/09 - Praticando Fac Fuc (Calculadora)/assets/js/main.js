@@ -1,8 +1,6 @@
 function criaCalculadora() {
   return {
-    
     display: document.querySelector('.display'),
-
     inicia() {
       this.cliqueBotoes();
       this.pressionaEnter();

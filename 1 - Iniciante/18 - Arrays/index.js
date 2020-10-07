@@ -11,8 +11,9 @@ console.log(alunos[1])
   array.length
 
   .push
-  .pop
+  .pop // final
 
+  .shift // começo
   .unshift
 
   .slice
